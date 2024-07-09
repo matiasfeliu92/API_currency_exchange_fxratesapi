@@ -4,14 +4,11 @@ sqlalchemy
 psycopg2-binary
 pymysql
 pandas
-gspread
-streamlit==1.28.0
+streamlit
 plotly
 matplotlib
 seaborn
 python-dotenv
-requests-oauthlib
-pip==23.3.1
-gspread_dataframe
+pip
 oauth2client
-google-auth
+jupyter
